@@ -1,8 +1,6 @@
-# Hi 👋, I'm Rosalia Fortino
+# $ whoami
 
 ### M.Sc. Computer Science student · Cybersecurity track · Breaking things to understand them
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rarissimaavis&label=Profile views&color=0e75b6&style=flat" alt="rarissimaavis" /> </p>
 
 - 🔭 I'm currently working on **My Master's thesis on post-quantum digital signatures and a penetration testing lab on a vulnerable-by-design machine**
 
@@ -39,9 +37,15 @@
 
 ---
 
+<p align="center">
+  <img src="./legally-blonde.webp" width="400"/>
+</p>
+
+---
+
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rarissimaavis&show_icons=true&theme=dark&hide_border=true" alt="Rosalia's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarissimaavis&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rarissimaavis&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Rosalia's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarissimaavis&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
