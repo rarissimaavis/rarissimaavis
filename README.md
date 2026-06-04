@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Post-quantum cryptography, exploit development, and digital forensics**
 
-- 👯 I'm looking to collaborate on **Anything that's genuinely interesting and involves thinking sideways about security**
+- 🛠️ I'm looking to collaborate on **Anything that's genuinely interesting and involves thinking sideways about security**
 
 - 📫 How to reach me **erre.fortino@gmail.com**
 
